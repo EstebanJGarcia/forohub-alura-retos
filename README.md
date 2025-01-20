@@ -19,6 +19,7 @@ Este proyecto es parte del Challenge Back End y consiste en replicar la funciona
 
 ## Funcionalidades
 ### La API REST incluye:
-    Rutas RESTful implementadas siguiendo las mejores prácticas.**Validaciones basadas en reglas de negocio.
-    Persistencia de datos mediante la integración con una base de datos.
-    Autenticación y autorización para proteger el acceso a los datos.
+    -Rutas RESTful implementadas siguiendo las mejores prácticas.
+    -Validaciones basadas en reglas de negocio.
+    -Persistencia de datos mediante la integración con una base de datos.
+    -Autenticación y autorización para proteger el acceso a los datos.
